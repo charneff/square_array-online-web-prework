@@ -1,4 +1,5 @@
 def square_array(array)
-  array.each do |int|
+  squared = []
+  
     # your code here
 end
